@@ -49,7 +49,7 @@
 
 ## Features
 
-Here are some essential features to consider:
+Here are some essential features:
 
 ### 1. Comprehensive Legal Research Tools
 - **Advanced Search Capabilities**: Enable users to perform detailed searches across a vast database of legal documents, case law, statutes, and regulations.
